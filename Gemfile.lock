@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    addressable (2.3.2)
+    google_calendar (0.2.2)
+      addressable (>= 2.2.2)
+      nokogiri (>= 1.4.4)
+    nokogiri (1.5.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  google_calendar
+  nokogiri
